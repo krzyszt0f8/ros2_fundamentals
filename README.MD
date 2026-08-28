@@ -13,4 +13,3 @@ This package includes minimalist ROS 2 code to demonstrate key ROS 2 concepts an
 
 Krzysztof Dudek
 
-ciao
